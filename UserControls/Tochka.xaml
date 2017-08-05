@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="ArmRusGazProm.Tochka"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="91.5" Width="95.5">
+    <Grid>
+        <Line Height="1" Margin="30,0,40,22" Name="line1" Stroke="Black" VerticalAlignment="Bottom" X1="0" X2="20" />
+        <Line Margin="40.25,0,0,10.25" Name="line2" Stroke="Black" Y2="10" HorizontalAlignment="Left" Width="2.8" Height="22.9" VerticalAlignment="Bottom" />
+        <Ellipse Margin="28,35.25,43,33.25" Name="ellipse1" Stroke="Black" />
+    </Grid>
+</UserControl>

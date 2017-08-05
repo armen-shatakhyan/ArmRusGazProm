@@ -1,0 +1,63 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="ArmRusGazProm.PlacementMenu"
+	x:Name="UserControl"
+	d:DesignWidth="1119.194" d:DesignHeight="819.362">
+	<Canvas Width="1115" Height="812" Background="#FFFAE6D7">
+		<Button Width="466" Height="77" Content="    1. Քաջարան" Cursor="Hand" FontSize="40" FontWeight="Bold" HorizontalContentAlignment="Left" x:Name="mexriKajaranBtn" Canvas.Left="257.861" Canvas.Top="94">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFCDCD9D" Offset="0.923"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button FontSize="40" FontWeight="Bold" Cursor="Hand" Width="466" Height="77" Content="    2. Սիսիան" HorizontalContentAlignment="Left" x:Name="kajaranSisianBtn" Canvas.Left="257.861" Canvas.Top="217">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFCDCD9D" Offset="0.923"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button FontSize="40" FontWeight="Bold" Cursor="Hand" Width="466" Height="77" Content="    3. Ջերմուկ" HorizontalContentAlignment="Left" x:Name="angexakotJermukBtn" Canvas.Left="257.861" Canvas.Top="351">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFCDCD9D" Offset="0.923"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button FontSize="40" FontWeight="Bold" Cursor="Hand" Width="466" Height="77" Content="    4. Եղեգնաձոր" HorizontalContentAlignment="Left" x:Name="jermukGetapBtn" Canvas.Left="257.861" Canvas.Top="468">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFCDCD9D" Offset="0.923"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button FontSize="40" FontWeight="Bold" Cursor="Hand" Width="466" Height="77" Content="    5. Արարատ" HorizontalContentAlignment="Left" x:Name="getapAraratBtn" Canvas.Left="257.861" Canvas.Top="587">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFBBBB93" Offset="1"/>
+					<GradientStop Color="#FFCDCD9D" Offset="0.912"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button FontSize="32" FontWeight="Bold" Cursor="Hand" Width="231.343" Height="87" Content="Վերադարձ" HorizontalContentAlignment="Center" x:Name="returnToModeBtn" Canvas.Left="797.207" Canvas.Top="675.816">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFBBBB93" Offset="1"/>
+					<GradientStop Color="#FFCD1515" Offset="0.912"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+        <TextBlock Canvas.Left="247" Canvas.Top="26" Height="53" Name="textBlock1" Text="ՑՈՒՑԱԴՐԱԿԱՆ ՌԵԺԻՄ" FontSize="40" FontWeight="Bold" Width="610" />
+    </Canvas>
+</UserControl>

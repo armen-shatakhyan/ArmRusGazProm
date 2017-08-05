@@ -1,0 +1,33 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="ArmRusGazProm.WelcomeMenu"
+	x:Name="UserControl"
+	d:DesignWidth="1118.39" d:DesignHeight="815.561">
+	<Canvas Width="1115" Height="812" Background="#FFFAE6D7">
+		<Button Width="889" Height="368.407" Cursor="Hand" FontSize="30" FontWeight="Bold" HorizontalContentAlignment="Center" x:Name="buttonEnter" Canvas.Left="157.396" Canvas.Top="73.348">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFCDCD9D" Offset="0.923"/>
+				</LinearGradientBrush>
+			</Button.Background>
+			<ContentControl>
+				<TextBlock Canvas.Left="331.733" Canvas.Top="145.029" Height="248" x:Name="textBlock1" Width="735" TextAlignment="Center" FontSize="40" FontWeight="Bold"/>
+			</ContentControl>
+		</Button>
+		<Button FontSize="40" FontWeight="Bold" Cursor="Hand" Width="275.055" Height="160.032" Content="Ելք" HorizontalContentAlignment="Center" x:Name="exitButton" Canvas.Left="714.174" Canvas.Top="536.774">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFFFFFFF" Offset="0"/>
+					<GradientStop Color="#FFBBBB93" Offset="1"/>
+					<GradientStop Color="#FFCD1515" Offset="0.912"/>
+				</LinearGradientBrush>
+			</Button.Background>
+            
+		</Button>
+	</Canvas>
+</UserControl>

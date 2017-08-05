@@ -1,0 +1,9 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:my="clr-namespace:ArmRusGazProm" x:Class="ArmRusGazProm.Window1"
+    Title="Իրան - Հայաստան Մայր Գազատարի Մաքրման Հանգույցների Կառավարման Վահանակ" Height="876" Width="1222" Background="#FDFAEBD7" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" xmlns:c1sched="http://schemas.componentone.com/wpf/C1Schedule" WindowStyle="SingleBorderWindow" AllowsTransparency="False">
+	<Canvas Width="1210" Height="840" Background="#FFFAE6D7" x:Name="canvas1"></Canvas>
+</Window>

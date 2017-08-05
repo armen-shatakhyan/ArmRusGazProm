@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="ArmRusGazProm.DoubleAliq"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="60" Width="61">
+    <Grid Height="51" Width="44">
+        <Polyline Height="29" HorizontalAlignment="Left" Margin="6,5,0,0" Name="polyline1" Points="10,0 0,10 10,20 0,30" Stroke="Black" VerticalAlignment="Top" Width="18" />
+        <Polyline Margin="16.4,5,12.6,15" Name="polyline2" Points="10,0 0,10 10,20 0,30" Stroke="Black" />
+    </Grid>
+</UserControl>

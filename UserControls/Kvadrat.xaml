@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="ArmRusGazProm.Kvadrat"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="57" Width="58">
+    <Grid Height="45" Width="44">
+        <Rectangle Height="31.968" HorizontalAlignment="Left" Margin="6,6,0,0" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="32.634" />
+        <Ellipse Height="15.2" HorizontalAlignment="Left" Margin="14,14,0,0" Name="ellipse1" Stroke="Black" VerticalAlignment="Top" Width="15.2" />
+    </Grid>
+</UserControl>

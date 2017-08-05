@@ -1,0 +1,193 @@
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.exe
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.pdb
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\App.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.cache
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.g.resources
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.Properties.Resources.resources
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.csproj.GenerateResource.Cache
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.exe
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.pdb
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.lref
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.exe
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.pdb
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\App.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.cache
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.lref
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.exe
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.pdb
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.g.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.Properties.Resources.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.csproj.GenerateResource.Cache
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\Menu.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\Menu.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\Menu.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\Menu.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.baml
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.g.cs
+C:\Documents and Settings\Armen_Shatakhyan\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.g.cs
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\C1.WPF.C1DataGrid.dll
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\C1.WPF.C1Schedule.dll
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\C1.WPF.C1Schedule.xml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\C1.WPF.C1DataGrid.xml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.exe.licenses
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\SPD.baml
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\SPD.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.exe
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.pdb
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\SPD.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\SPD.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\App.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.cache
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.lref
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.g.resources
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.exe
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.pdb
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Diametr.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Diametr.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\ModeMenu.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\PlacementMenu.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\ModeMenu.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\PlacementMenu.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\TestModeMenu.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\TestModeMenu.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.exe
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.pdb
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.exe
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\bin\Debug\ArmRusGazProm.pdb
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\TestModeMenu.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\ModeMenu.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\PlacementMenu.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Diametr.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\SPD.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\TestModeMenu.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\ModeMenu.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\PlacementMenu.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Menus\WelcomeMenu.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Diametr.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KameraCanvas.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Porshen.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\SPD.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Aliq.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\DoubleAliq.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Erankjun.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\KisaKran.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kran.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Kvadrat.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\PochavorKisaKran.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Tochka.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\UserControls\Truba.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\App.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.cache
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm_MarkupCompile.lref
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\Sxema.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\Window1.baml
+C:\Users\armenius\Desktop\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.g.resources
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\SpdTest.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\SpdTest.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\SkaaTest.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\SkaaTest.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\EppTest.baml
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\Sxemas\EppTest.g.cs
+D:\Documents\C# Projects\ArmRusGazProm\ArmRusGazProm\obj\Debug\ArmRusGazProm.csprojResolveAssemblyReference.cache
